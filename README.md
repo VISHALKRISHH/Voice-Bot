@@ -39,7 +39,3 @@ https://vishalkrishh.github.io/Voice-Bot/
 
 ## 🎥 Demo
 
-[![Demo Video](https://youtu.be/7pwDrs2AeE4)](https://youtu.be/7pwDrs2AeE4)
-
-
-https://youtu.be/7pwDrs2AeE4

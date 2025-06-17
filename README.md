@@ -6,6 +6,18 @@
 
 ---
 
+## 🎥 Demo
+https://github.com/user-attachments/assets/cca421c5-222f-4e06-a4f9-ceeacd45bf41
+
+---
+
+
+## Web Link
+https://vishalkrishh.github.io/Voice-Bot/
+voice-bot-eight-murex.vercel.app
+
+---
+
 ## 🚀 Features
 
 - 🎙️ **Voice Recognition** — Uses Web Speech API to capture and transcribe user speech.
@@ -34,12 +46,8 @@
    git clone https://github.com/VISHALKRISHH/Voice-Bot.git
    cd Voice-Bot
 
-## Web Link
-https://vishalkrishh.github.io/Voice-Bot/
-
-## 🎥 Demo
 
 
-https://github.com/user-attachments/assets/cca421c5-222f-4e06-a4f9-ceeacd45bf41
+
 
 

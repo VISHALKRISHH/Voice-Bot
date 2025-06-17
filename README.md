@@ -48,6 +48,11 @@ voice-bot-eight-murex.vercel.app
    git clone https://github.com/VISHALKRISHH/Voice-Bot.git
    cd Voice-Bot
 
+2. ** Replace with your API key**
+   ```JS
+   "Authorization": "Bearer YOUR_GROQ_API_KEY"
+
+
 
 
 

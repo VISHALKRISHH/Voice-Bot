@@ -36,3 +36,7 @@
 
 ## Web Link
 https://vishalkrishh.github.io/Voice-Bot/
+
+## 🎥 Demo
+
+[Click here to watch the demo](demo.mp4)
